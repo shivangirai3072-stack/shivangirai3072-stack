@@ -39,7 +39,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,py,c,nodejs,react,sqlite,electron,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=,py,c,react,firebase,git" />
 </p>
 
 ---
