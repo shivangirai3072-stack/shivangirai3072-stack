@@ -5,14 +5,14 @@
 
 <!-- Animated typing subtitle -->
 <p align="center">
-  <a href="https://github.com/suryanshpatel-dev">
+  <a href="https://github.com/shivangirai3072-stack">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+VBSPU;Lab+Assistant+%40+VBSPU;Hardware+%2B+Software+Maker;Builder+of+ESP32+%2C+RC+Aircraft+%26+Full-Stack+Apps" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Varanasi%2C%20UP-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Hardware%20%2B%20Software-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Jaunpur%2C%20UP-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software%20%2B%20Software-f97316?style=for-the-badge" />
 </p>
 
 ---
