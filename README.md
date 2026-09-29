@@ -34,8 +34,6 @@
 |  |  |
 
 
----
-<!-- Animated contribution snake (needs GitHub Actions setup - instructions below) -->
 
 ---
 
