@@ -45,7 +45,7 @@
 ---
 <!-- Animated contribution snake (needs GitHub Actions setup - instructions below) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suryanshpatel-dev/suryanshpatel-dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/shivangirai3072-stack" />
 </p>
 
 ---
